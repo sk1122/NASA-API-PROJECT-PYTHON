@@ -1,2 +1,4 @@
 # NASA-API-PROJECT-PYTHON
-I am new to Programming and API's and this a small project to use NASA API. In this I have used Astronomy Picture of the day.
+This is a program made with tkinter and Python. You just have to type the date and boom! you will get the Apod instantly!
+
+Satyam Kulkarni here.
